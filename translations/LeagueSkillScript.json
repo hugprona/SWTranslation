@@ -1,1 +1,184 @@
-{"1":{"Id":1,"Icon":"Icon/League/Skill/Icon_League_Skill_MemberIncrease","Name":"League Member Expansion 1","Description":"Expands the maximum amount of League members.\nMax League member count: 25","Desc2":"League members added: 5\nMax League member count: 30"},"2":{"Id":2,"Icon":"Icon/League/Skill/Icon_League_Skill_MemberIncrease","Name":"League Member Expansion 2","Description":"Expands the maximum amount of League members.\nMax League member count: 30","Desc2":"League members added: 5\nMax League member count: 35"},"3":{"Id":3,"Icon":"Icon/League/Skill/Icon_League_Skill_MemberIncrease","Name":"League Member Expansion 3","Description":"Expands the maximum amount of League members.\nMax League member count: 35","Desc2":"League members added: 5\nMax League member count: 40"},"4":{"Id":4,"Icon":"Icon/League/Skill/Icon_League_Skill_MemberIncrease","Name":"League Member Expansion 4","Description":"Expands the maximum amount of League members.\nMax League member count: 40","Desc2":"League members added: 5\nMax League member count: 45"},"5":{"Id":5,"Icon":"Icon/League/Skill/Icon_League_Skill_MemberIncrease","Name":"League Member Expansion 5","Description":"Expands the maximum amount of League members.\nMax League member count: 45","Desc2":"League members added: 5\nMax League member count: 50"},"6":{"Id":6,"Icon":"Icon/League/Skill/Icon_League_Skill_MemberIncrease","Name":"League Member Expansion 6","Description":"Expands the maximum amount of League members.\nMax League member count: 50","Desc2":"League members added: 5\nMax League member count: 55"},"7":{"Id":7,"Icon":"Icon/League/Skill/Icon_League_Skill_MemberIncrease","Name":"League Member Expansion 7","Description":"Expands the maximum amount of League members.\nMax League member count: 55","Desc2":"League members added: 5\nMax League member count: 60"},"8":{"Id":8,"Icon":"Icon/League/Skill/Icon_League_Skill_MemberIncrease","Name":"League Member Expansion 8","Description":"Expands the maximum amount of League members.\nMax League member count: 60","Desc2":"The Maximum level has been reached."},"9":{"Id":9,"Icon":"Icon/League/Skill/Icon_League_Skill_StorageOpen","Name":"League Store 1","Description":"The League store can be used now.\nAvailable storage slots: 48","Desc2":"48 storage slots added\nAvailable storage slots: 96"},"10":{"Id":10,"Icon":"Icon/League/Skill/Icon_League_Skill_StorageOpen","Name":"League Store 2","Description":"The League store can be used now.\nAvailable storage slots: 96","Desc2":"48 storage slots added\nAvailable storage slots: 144"},"11":{"Id":11,"Icon":"Icon/League/Skill/Icon_League_Skill_StorageOpen","Name":"League Store 3","Description":"The League store can be used now.\nAvailable storage slots: 144","Desc2":"The Maximum level has been reached."},"12":{"Id":12,"Icon":"Icon/League/Skill/Icon_League_Skill_CreationEmblem","Name":"League Emblem","Description":"A League emblem can be set.","Desc2":"The Maximum level has been reached."},"13":{"Id":13,"Icon":"Icon/League/Skill/Icon_League_Skill_SafeHouseOpen","Name":"League Hideout","Description":"A League hideout can be created.","Desc2":"The Maximum level has been reached."},"14":{"Id":14,"Icon":"Icon/League/Skill/Icon_League_Skill_LeagueExpUp","Name":"EXP UP 1 ","Description":"League Members get more experience points.\nEXP: \u002B5% \nLeague Funds required: 350,000","Desc2":"EXP: \u002B5%\nTotal increased EXP: \u002B10% \n\nLeague Funds required: 2,700,000"},"15":{"Id":15,"Icon":"Icon/League/Skill/Icon_League_Skill_LeagueExpUp","Name":"EXP UP 2","Description":"League Members get more experience points.\nEXP: \u002B10%","Desc2":"EXP: \u002B5%\nTotal increased EXP: \u002B15% \n\nLeague Funds required: 7,500,000"},"16":{"Id":16,"Icon":"Icon/League/Skill/Icon_League_Skill_LeagueExpUp","Name":"EXP UP 3","Description":"League Members get more experience points.\nEXP: \u002B15%","Desc2":"The Maximum level has been reached."},"17":{"Id":17,"Icon":"Icon/League/Skill/Icon_League_Skill_CredibilityUp","Name":"Credibility UP 1 ","Description":"League Members get more credibility.\nIncreased Daily credibility: 3\n\nLeague Funds required: 550,000","Desc2":"Increased Daily Credibility: 3\nTotal increased Daily Credibility: 6\n\nLeague Funds required: 3,000,000"},"18":{"Id":18,"Icon":"Icon/League/Skill/Icon_League_Skill_CredibilityUp","Name":"Credibility UP 2","Description":"League Members get more credibility.\nIncreased Daily credibility: 6","Desc2":"Increased Daily Credibility: 4\nTotal increased Daily Credibility: 10\n\nLeague Funds required: 10,500,000"},"19":{"Id":19,"Icon":"Icon/League/Skill/Icon_League_Skill_CredibilityUp","Name":"Credibility UP 3","Description":"League Members get more credibility.\nIncreased Daily credibility: 10","Desc2":"The Maximum level has been reached."},"20":{"Id":20,"Icon":"Icon/League/Skill/Icon_League_Skill_RepairDiscount","Name":"Repair Privilege 1","Description":"Reduced repair costs.\nRepair Discount: 3%\n\nLeague Funds required: 1,950,000","Desc2":"Repair discount: \u002B3%\nTotal repair discount: \u002B6% \n\nLeague Funds required: 6,500,000"},"21":{"Id":21,"Icon":"Icon/League/Skill/Icon_League_Skill_RepairDiscount","Name":"Repair Privilege 2","Description":"Reduced repair costs.\nRepair Discount: 6%","Desc2":"Repair discount: \u002B4%\nTotal repair discount: \u002B10% \n\nLeague Funds required: 18,000,000"},"22":{"Id":22,"Icon":"Icon/League/Skill/Icon_League_Skill_RepairDiscount","Name":"Repair Privilege 3","Description":"Reduced repair costs.\nTotal Discount: \u002B10%","Desc2":"The Maximum level has been reached."},"23":{"Id":23,"Icon":"Icon/League/Skill/Icon_League_Skill_CommissionDiscount","Name":"Market Privilege 1","Description":"Reduced sales fees on the Market.\nDiscount for sales on the Market: \u002B1%\n\nLeague Funds required: 1,950,000","Desc2":"Discount for sales on the Market: \u002B1%\nTotal discount for sales on the Market: \u002B2%\n\nLeague Funds required: 9,000,000"},"24":{"Id":24,"Icon":"Icon/League/Skill/Icon_League_Skill_CommissionDiscount","Name":"Market Privilege 2","Description":"Reduced fees on the Market.\nDiscount for sales on the Market: \u002B2%","Desc2":"Discount for sales on the Market: \u002B1%\nTotal discount for sales on the Market: \u002B3%\n\nLeague Funds required: 20,000,000"},"25":{"Id":25,"Icon":"Icon/League/Skill/Icon_League_Skill_CommissionDiscount","Name":"Market Privilege 3","Description":"Reduced sales fees on the Market.\nDiscount for sales on the Market: \u002B3%","Desc2":"The Maximum level has been reached."}}
+{
+  "1": {
+    "Id": 1,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_MemberIncrease",
+    "Name": "League Member Expansion 1",
+    "Description": "Expands the maximum amount of League members.\nMax League member count: 25",
+    "Desc2": "League members added: 5\nMax League member count: 30"
+  },
+  "2": {
+    "Id": 2,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_MemberIncrease",
+    "Name": "League Member Expansion 2",
+    "Description": "Expands the maximum amount of League members.\nMax League member count: 30",
+    "Desc2": "League members added: 5\nMax League member count: 35"
+  },
+  "3": {
+    "Id": 3,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_MemberIncrease",
+    "Name": "League Member Expansion 3",
+    "Description": "Expands the maximum amount of League members.\nMax League member count: 35",
+    "Desc2": "League members added: 5\nMax League member count: 40"
+  },
+  "4": {
+    "Id": 4,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_MemberIncrease",
+    "Name": "League Member Expansion 4",
+    "Description": "Expands the maximum amount of League members.\nMax League member count: 40",
+    "Desc2": "League members added: 5\nMax League member count: 45"
+  },
+  "5": {
+    "Id": 5,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_MemberIncrease",
+    "Name": "League Member Expansion 5",
+    "Description": "Expands the maximum amount of League members.\nMax League member count: 45",
+    "Desc2": "League members added: 5\nMax League member count: 50"
+  },
+  "6": {
+    "Id": 6,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_MemberIncrease",
+    "Name": "League Member Expansion 6",
+    "Description": "Expands the maximum amount of League members.\nMax League member count: 50",
+    "Desc2": "League members added: 5\nMax League member count: 55"
+  },
+  "7": {
+    "Id": 7,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_MemberIncrease",
+    "Name": "League Member Expansion 7",
+    "Description": "Expands the maximum amount of League members.\nMax League member count: 55",
+    "Desc2": "League members added: 5\nMax League member count: 60"
+  },
+  "8": {
+    "Id": 8,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_MemberIncrease",
+    "Name": "League Member Expansion 8",
+    "Description": "Expands the maximum amount of League members.\nMax League member count: 60",
+    "Desc2": "Max Lv. Reached"
+  },
+  "9": {
+    "Id": 9,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_StorageOpen",
+    "Name": "League Store 1",
+    "Description": "League Store can be used now.\nAvailable Storage Slots: 48",
+    "Desc2": "Storage Slots: +48\nAvailable Storage Slots: 96"
+  },
+  "10": {
+    "Id": 10,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_StorageOpen",
+    "Name": "League Store 2",
+    "Description": "League Store can be used now.\nAvailable Storage Slots: 96",
+    "Desc2": "Storage Slots: +48\nAvailable Storage Slots: 144"
+  },
+  "11": {
+    "Id": 11,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_StorageOpen",
+    "Name": "League Store 3",
+    "Description": "League Store can be used now.\nAvailable Storage Slots: 144",
+    "Desc2": "Storage Slots: +48\nAvailable Storage Slots: 192"
+  },
+  "12": {
+    "Id": 12,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_CreationEmblem",
+    "Name": "League Emblem",
+    "Description": "A League emblem can be set.",
+    "Desc2": "Max Lv. Reached"
+  },
+  "13": {
+    "Id": 13,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_SafeHouseOpen",
+    "Name": "League Hideout",
+    "Description": "A League hideout can be created.",
+    "Desc2": "Max Lv. Reached"
+  },
+  "14": {
+    "Id": 14,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_LeagueExpUp",
+    "Name": "EXP UP 1 ",
+    "Description": "League Members get more experience points.\nEXP: +5% \nLeague Funds required: 350,000",
+    "Desc2": "EXP: +5%\nTotal increased EXP: +10% \n\nLeague Funds required: 2,700,000"
+  },
+  "15": {
+    "Id": 15,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_LeagueExpUp",
+    "Name": "EXP UP 2",
+    "Description": "League Members get more experience points.\nEXP: +10%",
+    "Desc2": "EXP: +5%\nTotal increased EXP: +15% \n\nLeague Funds required: 7,500,000"
+  },
+  "16": {
+    "Id": 16,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_LeagueExpUp",
+    "Name": "EXP UP 3",
+    "Description": "League Members get more experience points.\nEXP: +15%",
+    "Desc2": "Max Lv. Reached"
+  },
+  "17": {
+    "Id": 17,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_CredibilityUp",
+    "Name": "Credibility UP 1 ",
+    "Description": "League Members get more credibility.\nIncreased Daily credibility: 3\n\nLeague Funds required: 550,000",
+    "Desc2": "Increased Daily Credibility: 3\nTotal increased Daily Credibility: 6\n\nLeague Funds required: 3,000,000"
+  },
+  "18": {
+    "Id": 18,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_CredibilityUp",
+    "Name": "Credibility UP 2",
+    "Description": "League Members get more credibility.\nIncreased Daily credibility: 6",
+    "Desc2": "Increased Daily Credibility: 4\nTotal increased Daily Credibility: 10\n\nLeague Funds required: 10,500,000"
+  },
+  "19": {
+    "Id": 19,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_CredibilityUp",
+    "Name": "Credibility UP 3",
+    "Description": "League Members get more credibility.\nIncreased Daily credibility: 10",
+    "Desc2": "Max Lv. Reached"
+  },
+  "20": {
+    "Id": 20,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_RepairDiscount",
+    "Name": "Repair Privilege 1",
+    "Description": "Reduced repair costs.\nRepair Discount: 3%\n\nLeague Funds required: 1,950,000",
+    "Desc2": "Repair discount: +3%\nTotal repair discount: +6% \n\nLeague Funds required: 6,500,000"
+  },
+  "21": {
+    "Id": 21,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_RepairDiscount",
+    "Name": "Repair Privilege 2",
+    "Description": "Reduced repair costs.\nRepair Discount: 6%",
+    "Desc2": "Repair discount: +4%\nTotal repair discount: +10% \n\nLeague Funds required: 18,000,000"
+  },
+  "22": {
+    "Id": 22,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_RepairDiscount",
+    "Name": "Repair Privilege 3",
+    "Description": "Reduced repair costs.\nTotal Discount: +10%",
+    "Desc2": "Max Lv. Reached"
+  },
+  "23": {
+    "Id": 23,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_CommissionDiscount",
+    "Name": "Market Privilege 1",
+    "Description": "Reduced sales fees on the Market.\nDiscount for sales on the Market: +1%\n\nLeague Funds required: 1,950,000",
+    "Desc2": "Discount for sales on the Market: +1%\nTotal discount for sales on the Market: +2%\n\nLeague Funds required: 9,000,000"
+  },
+  "24": {
+    "Id": 24,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_CommissionDiscount",
+    "Name": "Market Privilege 2",
+    "Description": "Reduced fees on the Market.\nDiscount for sales on the Market: +2%",
+    "Desc2": "Discount for sales on the Market: +1%\nTotal discount for sales on the Market: +3%\n\nLeague Funds required: 20,000,000"
+  },
+  "25": {
+    "Id": 25,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_CommissionDiscount",
+    "Name": "Market Privilege 3",
+    "Description": "Reduced sales fees on the Market.\nDiscount for sales on the Market: +3%",
+    "Desc2": "Max Lv. Reached"
+  },
+  "38": {
+    "Id": 38,
+    "Icon": "Icon/League/Skill/Icon_League_Skill_StorageOpen",
+    "Name": "League Store 4",
+    "Description": "League Store can be used now.\nAvailable Storage Slots: 192",
+    "Desc2": "Max Lv. Reached"
+  }
+}
